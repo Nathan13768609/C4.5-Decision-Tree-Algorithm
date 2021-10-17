@@ -1,2 +1,2 @@
 # C4.5-Decision-Tree-Algorithm
-My implementation of the C4.5 DT algorithm 
+Open the pdf file for information on how to implement the C4.5 Algorithm
